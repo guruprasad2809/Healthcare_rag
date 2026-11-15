@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+qdrant_storage/
+data/uploads/*
+!data/uploads/.gitkeep
+evaluation/results/ragas_*
+.DS_Store
+.idea/
+.vscode/

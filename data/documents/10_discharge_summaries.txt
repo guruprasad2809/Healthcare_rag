@@ -1,0 +1,243 @@
+HOSPITAL DISCHARGE SUMMARIES
+============================
+
+De-identified sample discharge summaries (MTSamples).
+
+DISCHARGE SUMMARY 1: Chronic Abscesses - Discharge Summary
+------------------------------------------------------------
+Description: Multiple extensive subcutaneous abscesses, right thigh. Massive open wound, right thigh, status post right excision of multiple subcutaneous abscesses, right thigh.
+
+SUMMARY:
+DISCHARGE DIAGNOSES,1. Multiple extensive subcutaneous abscesses, right thigh.,2. Massive open wound, right thigh, status post right excision of multiple subcutaneous abscesses, right thigh.,PROCEDURES PERFORMED,1. On 03/05/08, by Dr. X, was massive debridement of soft tissue, right lateral thigh and hip.,2. Soft tissue debridement on 03/16/08 of right thigh and hip by Dr. X.,3. Split thickness skin graft to right thigh and right hip massive open wound on 04/01/08 by Dr. Y.
+
+REASON FOR ADMISSION:
+The patient is a 62-year-old male with a history of drug use. He had a history of injection of heroin into his bilateral thighs. Unfortunately, he developed chronic abscesses, open wounds on his bilateral thighs, much worse on his right than his left. Decision was made to do a radical excision and then it is followed by reconstruction.
+
+HOSPITAL COURSE:
+The patient was admitted on 03/05/08 by Dr. X. He was taken to the operating room. He underwent a massive resection of multiple subcutaneous abscesses, heroin remnants, which left massive huge open wounds to his right thigh and hip. This led to a prolonged hospital course. The patient initially was treated with local wound care. He was treated with broad spectrum antibiotics. He ended up growing out different species of Clostridium. Infectious Disease consult was obtained from Dr. Z. He assisted in further antibiotic coverage throughout the rest of his hospitalization. The patient also had significant hypoalbuminemia, decreased nutrition. Given his large wounds, he did end up getting a feeding tube placement, and prior to grafting, he received significant feeding tube supplementation to help achieve adequate nutrition for healing. The patient had this superior area what appeared to be further necrotic, infected soft tissue. He went back to the OR on 03/16/08 and further resection done by Dr. X. After this, his wound appeared to be free of infection. He is treated with a wound VAC. He slowly, but progressively had significant progress in his wound. I went from a very poor-looking wound to a red granulated wound throughout its majority. He was thought ready for skin grafting. Note that the patient had serial ultrasounds given his high risk of DVT from this massive wound and need for decreased activity. These were negative. He was treated with SCDs to help decrease his risk. On 04/01/08, the patient was taken to the operating room, was thought to have an adequate ________ grafting. He underwent skin grafting to his right thigh and hip massive open wound. Donor sites were truncated. Postoperatively, the patient ended up with a vast majority of skin graft taking. To unable to take, he was kept on IV antibiotics, strict bed rest, and limited range of motion of his hip. He is continued on VAC dressing. Graft progressively improved with this therapy. Had another ultrasound, which was negative for DVT. The patient was mobilized up out of his bed. Infectious Disease recommendations were obtained. Plan was to complete additional 10 days of antibiotics at discharge. This will be oral antibiotics. I would monitor his left side, which has significantly decreased inflammation and irritation or infection given the antibiotic coverage. So, decision was not made to excise this, but instead monitor. By 04/11/08, his graft looked good. It was pink and filling in. He looked stable for discharge. The patient was discharged to home.
+
+DISCHARGE INSTRUCTIONS:
+Discharge to home.
+
+CONDITION:
+Stable.,Antibiotic Augmentin XR script was written. He is okay to shower. Donor site and graft site dressing instruction orders were given for Home Health and the patient. His followup was arranged with Dr. X and myself.
+
+
+DISCHARGE SUMMARY 2: D&C - Discharge Summary
+------------------------------------------------------------
+Description: Hysteroscopy, dilatation and curettage (D&C), and myomectomy. Severe menometrorrhagia unresponsive to medical therapy, severe anemia, and fibroid uterus.
+
+ADMISSION DIAGNOSES:
+1. Severe menometrorrhagia unresponsive to medical therapy.,2. Severe anemia.,3. Fibroid uterus.
+
+DISCHARGE DIAGNOSES:
+1. Severe menometrorrhagia unresponsive to medical therapy.,2. Severe anemia.,3. Fibroid uterus.
+
+OPERATIONS PERFORMED:
+1. Hysteroscopy.,2. Dilatation and curettage (D&C).,3. Myomectomy.
+
+COMPLICATIONS:
+Large endometrial cavity fibroid requiring careful dissection and excision.
+
+BLOOD TRANSFUSIONS:
+Two units of packed red blood cells.
+
+INFECTION:
+None.
+
+SIGNIFICANT LAB AND X-RAY:
+Posttransfusion of the 2nd unit showed her hematocrit of 25, hemoglobin of 8.3.
+
+HOSPITAL COURSE AND TREATMENT:
+The patient was admitted to the surgical suite and taken to the operating room where a dilatation and curettage (D&C) was performed. Hysteroscopy revealed a large endometrial cavity fibroid. Careful shaving and excision of this fibroid was performed with removal of the fibroid. Hemostasis was noted completely at the end of this procedure. Postoperatively, the patient has done well. The patient was given a 2nd unit of packed red blood cells because of intraoperative blood loss. The patient is now ambulating without difficulty and tolerating her diet. The patient desires to go home. The patient is discharged to home.
+
+DISCHARGE CONDITION:
+Stable.
+
+DISCHARGE INSTRUCTIONS:
+Regular diet, bedrest for 1 week with slow return to normal activities over the ensuing 2 to 3 weeks, pelvic rest for 6 weeks. Vicodin tablets 1 tablet p.o. q.4-6 h. p.r.n. pain, multiple vitamin 1 tab p.o. daily, ferrous sulfate tablets 1 tablet p.o. daily. Ambulate with assistance at home only. The patient is to return to see Dr. X p.r.n. plus Tuesday, 6/16/2009 for further followup care. The patient was given full and complete postop and discharge instructions. All her questions were answered.
+
+
+DISCHARGE SUMMARY 3: Falls - Discharge Summary
+------------------------------------------------------------
+Description: Falls at home. Anxiety and depression. The patient had been increasingly anxious and freely admitted that she was depressed at home.
+
+CHIEF COMPLAINT:
+Falls at home.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is an 82-year-old female who fell at home and presented to the emergency room with increased anxiety. Family members who are present state that the patient had been increasingly anxious and freely admitted that she was depressed at home. They noted that she frequently came to the emergency room for "attention." The patient denied any chest pain or pressure and no change to exercise tolerance. The patient denied any loss of consciousness or incontinence. She denies any seizure activity. She states that she "tripped" at home. Family states she frequently takes Darvocet for her anxiety and that makes her feel better, but they are afraid she is self medicating. They stated that she has numerous medications at home, but they were not sure if she was taking them. The patient been getting along for a number of years and has been doing well, but recently has been noting some decline primarily with regards to her depression. The patient denied SI or HI.
+
+PHYSICAL EXAMINATION:
+GENERAL: The patient is pleasant 82-year-old female in no acute distress.
+
+VITAL SIGNS:
+Stable.
+
+HEENT:
+Negative.
+
+NECK:
+Supple. Carotid upstrokes are 2+.
+
+LUNGS:
+Clear.
+
+HEART:
+Normal S1 and S2. No gallops. Rate is regular.
+
+ABDOMEN:
+Soft. Positive bowel sounds. Nontender.
+
+EXTREMITIES:
+No edema. There is some ecchymosis noted to the left great toe. The area is tender; however, metatarsal is nontender.
+
+NEUROLOGICAL:
+Grossly nonfocal.
+
+HOSPITAL COURSE:
+A psychiatric evaluation was obtained due to the patient's increased depression and anxiety. Continue Paxil and Xanax use was recommended. The patient remained medically stable during her hospital stay and arrangements were made for discharge to a rehabilitation program given her recent falls.
+
+DISCHARGE DIAGNOSES:
+1. Falls ,2. Anxiety and depression.,3. Hypertension.,4. Hypercholesterolemia.,5. Coronary artery disease.,6. Osteoarthritis.,7. Chronic obstructive pulmonary disease.,8. Hypothyroidism.
+
+CONDITION UPON DISCHARGE:
+Stable.
+
+DISCHARGE MEDICATIONS:
+Tylenol 650 mg q.6h. p.r.n., Xanax 0.5 q.4h. p.r.n., Lasix 80 mg daily, Isordil 10 mg t.i.d., KCl 20 mEq b.i.d., lactulose 10 g daily, Cozaar 50 mg daily, Synthroid 75 mcg daily, Singulair 10 mg daily, Lumigan one drop both eyes at bed time, NitroQuick p.r.n., Pravachol 20 mg daily, Feldene 20 mg daily, Paxil 20 mg daily, Minipress 2 mg daily, Provera p.r.n., Advair 250/50 one puff b.i.d., Senokot one tablet b.i.d., Timoptic one drop OU daily, and verapamil 80 mg b.i.d.
+
+ALLERGIES:
+None.
+
+ACTIVITY:
+Per PT.
+
+FOLLOW-UP:
+The patient discharged to a skilled nursing facility for further rehabilitation.
+
+
+DISCHARGE SUMMARY 4: Laryngitis - Discharge
+------------------------------------------------------------
+Description: Chronic laryngitis, hoarseness. The patient was referred to Medical Center's Outpatient Rehabilitation Department for skilled speech therapy secondary to voicing difficulties.
+
+DIAGNOSIS:
+Chronic laryngitis, hoarseness.
+
+HISTORY:
+The patient is a 68-year-old male, was referred to Medical Center's Outpatient Rehabilitation Department for skilled speech therapy secondary to voicing difficulties. The patient attended initial evaluation plus 3 outpatient speech therapy sessions, which focused on training the patient to complete resonant voice activities and to improve his vocal hygiene. The patient attended therapy one time a week and was given numerous home activities to do in between therapy sessions. The patient made great progress and he came in to discuss with an appointment on 12/23/08 stating that his voice had finally returned to "normal".
+
+SHORT-TERM GOALS:
+1. To be independent with relaxation and stretching exercises and Lessac-Madsen Resonant Voice Therapy Protocol.,2. He also met short-term goal therapy 3 and he is independent with resonant voice therapy tasks.,3. We did not complete his __________ ratio during his last session; so, I am unsure if he had met his short-term goal number 2.,4. To be referred for a videostroboscopy, but at this time, the patient is not in need of this evaluation. However, in the future if hoarseness returns, it is strongly recommended that he be referred for a videostroboscopy prior to returning to additional outpatient therapy.
+
+LONG-TERM GOALS:
+1. The patient did reach his long-term goal of improved vocal quality to return to prior level of function and to utilize his voice in all settings without vocal hoarseness or difficulty.,2. The patient appears very pleased with his return of his normal voice and feels that he no longer needs outpatient skilled speech therapy.,The patient is discharged from my services at this time with a home program to continue to promote normal voicing.
+
+
+DISCHARGE SUMMARY 5: Cholestasis Of Pregnancy
+------------------------------------------------------------
+Description: Delivered pregnancy, cholestasis of pregnancy, fetal intolerance to labor, failure to progress. Primary low transverse cesarean section.
+
+FINAL DIAGNOSES:
+Delivered pregnancy, cholestasis of pregnancy, fetal intolerance to labor, failure to progress.
+
+PROCEDURE:
+Included primary low transverse cesarean section.
+
+SUMMARY:
+This 32-year-old gravida 2 was induced for cholestasis of pregnancy at 38-1/2 weeks. The patient underwent a 2-day induction. On the second day, the patient continued to progress all the way to the point of 9.5 cm at which point, she failed to progress. During the hour or two of evaluation at 9.5 cm, the patient was also noted to have some fetal tachycardia and an occasional late deceleration. Secondary to these factors, the patient was brought to the operative suite for primary low transverse cesarean section, which she underwent without significant complication. There was a slightly enlarged blood loss at approximately 1200 mL, and postoperatively, the patient was noted to have a very mild tachycardia coupled with 100.3 degrees Fahrenheit temperature right at delivery. It was felt that this was a sign of very early chorioamnionitis and therapeutic antibiotics were given throughout her stay. The patient received 72 hours of antibiotics with there never being a temperature above 100.3 degrees Fahrenheit. The maternal tachycardia resolved within a day. The patient did well throughout the 3-day stay progressing to full diet, regular bowel movements, normal urination patterns. The patient did receive 2 units of packed red cells on Sunday when attended to by my partner secondary to a hematocrit of 20%. It should be noted, however, that this was actually an expected result with the initial hematocrit of 32% preoperatively. Therefore, there was anemia but not an unexplained anemia.
+
+PHYSICAL EXAMINATION ON DISCHARGE:
+Includes the stable vital signs, afebrile state. An alert and oriented patient who is desirous at discharge. Full range of motion, all extremities; fully ambulatory. Pulse is regular and strong. Lungs are clear and the abdomen is soft and nontender with minimal tympany and a nontender fundus. The incision is beautiful and soft and nontender. There is scant lochia and there is minimal edema.
+
+LABORATORY STUDIES:
+Include hematocrit of 27% and the last liver function tests was within normal limits 48 hours prior to discharge.
+
+FOLLOWUP:
+For the patient includes pelvic rest, regular diet. Follow up with me in 1 to 2 weeks. Motrin 800 mg p.o. q.8h. p.r.n. cramps, Tylenol No. 3 one p.o. q.4h. p.r.n. pain, prenatal vitamin one p.o. daily, and topical triple antibiotic to incision b.i.d. to q.i.d.
+
+
+DISCHARGE SUMMARY 6: Discharge Summary - Multiple Trauma
+------------------------------------------------------------
+Description: Aftercare of multiple trauma from an motor vehicle accident.
+
+ADMITTING DIAGNOSIS:
+Aftercare of multiple trauma from an motor vehicle accident.
+
+DISCHARGE DIAGNOSES:
+1. Aftercare following surgery for injury and trauma.,2. Decubitus ulcer, lower back.,3. Alcohol induced persisting dementia.,4. Anemia.,5. Hypokalemia.,6. Aftercare healing traumatic fracture of the lower arm.,7. Alcohol abuse, not otherwise specified.,8. Aftercare healing traumatic lower leg fracture.,9. Open wound of the scalp.,10. Cervical disk displacement with myelopathy.,11. Episodic mood disorder.,12. Anxiety disorder.,13. Nervousness.,14. Psychosis.,15. Generalized pain.,16. Insomnia.,17. Pain in joint pelvic region/thigh.,18. Motor vehicle traffic accident, not otherwise specified.
+
+PRINCIPAL PROCEDURES:
+None.
+
+HISTORY OF PRESENT ILLNESS:
+As per Dr. X without any changes or corrections.
+
+HOSPITAL COURSE:
+This is a 50-year-old male, who is initially transferred from Medical Center after treatment for multiple fractures after a motor vehicle accident. He had a left tibial plateau fracture, right forearm fracture with ORIF, head laceration, and initially some symptoms of head injury. When he was initially transferred to HealthSouth, he was status post ORIF for his right forearm. He had a brace placed in the left leg for his left tibial plateau fracture. He was confused initially and initially started on rehab. He was diagnosed with some acute psychosis and thought problems likely related to his alcohol abuse history. He did well from orthopedic standpoint. He did have a small sacral decubitus ulcer, which was well controlled with the wound care team and healed quite nicely. He did have some anemia initially and he had dropped down in to the low 9, but he was 9.2 with his lowest on 06/11/2008, which had responded well to iron treatment and by the time of discharge, he was lower at 11.0. He made slow progress from therapy. His confusion gradually cleared. He did have some problems with insomnia and was placed on Seroquel to help with both of his moods and other issues and he did quite well with this. He did require some Ativan for agitation. He was on chronic pain medications as an outpatient. His medications were adjusted here and he did well with this as well. The patient was followed throughout his entire stay with case management and discussions were made with them and the psychologist concerning the placement upon discharge to an acute alcohol rehab facility; however, the patient refused throughout this entire stay. We did have orthopedic followup. He was taken out of his right leg brace the week of 06/16/2008. He did well with therapy. Overall, he was doing much and much better. He had progressed with the therapy to the point where that he was comfortable to go home and receive outpatient therapy and follow up with his primary care physician. On 06/20/2008, with all parties in agreement, the patient was discharged to home in stable condition.,At the time of discharge, the patient's ambulatory status was much better. He was using a wheeled walker. He was able to bear weight on his left leg. His pain level had been well controlled and his moods had improved dramatically. He was no longer having any signs of agitation or confusion and he seemed to be at a stable baseline. His anemia had resolved almost completely and he was doing quite well.
+
+MEDICATIONS:
+On discharge included:,1. Calcium with vitamin D 1 tablet twice a day.,2. Ferrous sulfate 325 mg t.i.d.,3. Multivitamin 1 daily.,4. He was on nicotine patch 21 mg per 24 hour.,5. He was on Seroquel 25 mg at bedtime.,6. He was on Xenaderm for his sacral pressure ulcer.,7. He was on Vicodin p.r.n. for pain.,8. Ativan 1 mg b.i.d. for anxiety and otherwise he is doing quite well.,The patient was told to follow up with his orthopedist Dr. Y and also with his primary care physician upon discharge.
+
+
+DISCHARGE SUMMARY 7: Psychiatric Discharge Summary
+------------------------------------------------------------
+Description: The patient was discharged by court as a voluntary drop by prosecution.
+
+DISCHARGE DISPOSITION:
+The patient was discharged by court as a voluntary drop by prosecution. This was AMA against hospital advice.
+
+DISCHARGE DIAGNOSES:
+AXIS I: Schizoaffective disorder, bipolar type.
+
+AXIS II:
+Deferred.
+
+AXIS III:
+Hepatitis C.
+
+AXIS IV:
+Severe.
+
+AXIS V:
+19.
+
+CONDITION OF PATIENT ON DISCHARGE:
+The patient remained disorganized. The patient was suffering from prolactinemia secondary to medications.
+
+DISCHARGE FOLLOWUP:
+To be arranged per the patient as the patient was discharged by court.
+
+DISCHARGE MEDICATIONS:
+A 2-week supply of the following was phoned into the patient's pharmacy: Seroquel 25 mg p.o. nightly. Zyprexa 5 mg p.o. b.i.d.
+
+MENTAL STATUS AT THE TIME OF DISCHARGE:
+Attitude was cooperative. Appearance showed fair hygiene and grooming. Psychomotor behavior showed restlessness. No EPS or TD was noted. Affect was restricted. Mood remained anxious and speech was pressured. Thoughts remained tangential, and the patient endorsed paranoid delusions. The patient denied auditory hallucinations. The patient denied suicidal or homicidal ideation, was oriented to person and place. Overall, insight into her illness remained impaired.
+
+HISTORY AND HOSPITAL COURSE:
+The patient is a 22-year-old female with a history of bipolar affective disorder, was initially admitted for evaluation of increasing mood lability, disorganization, and inappropriate behaviors. The patient reportedly was asking her father to have sex with her and tried to pull down her mother's pants. The patient took her clothing off, was noted to be very disorganized sexually, and religiously preoccupied, and endorsed auditory hallucinations of voices telling her to calm herself and others. The patient has a history of depression versus bipolar disorder, last hospitalized in Pierce County in 2008, but without recent treatment. The patient on admission interview was noted to be labile and disorganized. The patient was initiated on Risperdal M-Tab 2 mg p.o. b.i.d. for psychosis and mood lability, and also medically evaluated by Rebecca Richardson, MD. The patient remained labile and suspicious during her hospital stay. The patient continued to be sexually preoccupied and had poor insight into her need for treatment. The patient denied further auditory hallucinations. The patient was treated with Seroquel for persistent mood lability and psychosis. The patient was noted to develop prolactinemia with Risperdal and this was changed to Zyprexa prior to discharge. The patient remained disorganized, but was given a voluntary drop by prosecution against medical advice when she went to court on 01/11/2010. The patient was discharged to return home to her parents and was referred to Community Mental Health Agencies. The patient was thus discharged in symptomatic condition.
+
+
+DISCHARGE SUMMARY 8: Cellulitis - Discharge Summary
+------------------------------------------------------------
+Description: Complex open wound right lower extremity complicated by a methicillin-resistant staphylococcus aureus cellulitis. The patient is a 52-year-old male who has had a very complex course secondary to a right lower extremity complex open wound.
+
+DISCHARGE DIAGNOSIS:
+Complex open wound right lower extremity complicated by a methicillin-resistant staphylococcus aureus cellulitis.
+
+ADDITIONAL DISCHARGE DIAGNOSES:
+1. Chronic pain.,2. Tobacco use.,3. History of hepatitis C.
+
+REASON FOR ADMISSION:
+The patient is a 52-year-old male who has had a very complex course secondary to a right lower extremity complex open wound. He has had prolonged hospitalizations because of this problem. He was recently discharged when he was noted to develop as an outpatient swollen, red tender leg. Examination in the emergency room revealed significant concern for significant cellulitis. Decision was made to admit him to the hospital.
+
+HOSPITAL COURSE:
+The patient was admitted on 03/26/08 and was started on IV antibiotics elevation, was also counseled to minimizing the cigarette smoking. The patient had edema of his bilateral lower extremities. The hospital consult was also obtained to address edema issue question was related to his liver hepatitis C. Hospital consult was obtained. This included an ultrasound of his abdomen, which showed just mild cirrhosis. His leg swelling was thought to be secondary to chronic venostasis and with likely some contribution from his liver as well. The patient eventually grew MRSA in a moderate amount. He was treated with IV vancomycin. Local wound care and elevation. The patient had slow progress. He was started on compression, and by 04/03/08 his leg got much improved, minimal redness and swelling was down with compression. The patient was thought safe to discharge home.
+
+DISCHARGE INSTRUCTIONS:
+The patient was discharged on doxycycline 100 mg p.o. b.i.d. x10 days. He was also given prescription for Percocet and OxyContin, picked up at my office. He is instructed to do daily wound care and also wrap his leg with an Ace wrap. Followup was arranged in a couple of weeks.
+
+DISCHARGE CONDITION:
+Stable.
+
+

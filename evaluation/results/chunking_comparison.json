@@ -1,0 +1,32 @@
+{
+  "fixed_size": {
+    "chunks": 661,
+    "avg_tokens": 344,
+    "starts_mid_sentence_pct": 83.4,
+    "best_single_chunk_answer_coverage_pct": 96.5,
+    "bm25_hit@1_pct": 81.4,
+    "bm25_hit@5_pct": 94.9,
+    "bm25_mrr@5": 0.879,
+    "answer_density_pct": 38.3
+  },
+  "recursive": {
+    "chunks": 745,
+    "avg_tokens": 267,
+    "starts_mid_sentence_pct": 43.5,
+    "best_single_chunk_answer_coverage_pct": 96.3,
+    "bm25_hit@1_pct": 66.1,
+    "bm25_hit@5_pct": 89.8,
+    "bm25_mrr@5": 0.763,
+    "answer_density_pct": 36.7
+  },
+  "semantic_title": {
+    "chunks": 1272,
+    "avg_tokens": 170,
+    "starts_mid_sentence_pct": 0.0,
+    "best_single_chunk_answer_coverage_pct": 97.8,
+    "bm25_hit@1_pct": 74.6,
+    "bm25_hit@5_pct": 96.6,
+    "bm25_mrr@5": 0.851,
+    "answer_density_pct": 71.3
+  }
+}

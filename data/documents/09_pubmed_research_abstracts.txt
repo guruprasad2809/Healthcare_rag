@@ -1,0 +1,533 @@
+PUBMED RESEARCH ABSTRACTS
+=========================
+
+A collection of 30 biomedical research abstracts from PubMed (PubMedQA dataset).
+
+ABSTRACT 1: Does pretreatment with statins improve clinical outcome after stroke?
+------------------------------------------------------------
+PMID: 11340218
+
+BACKGROUND AND PURPOSE:
+In primary and secondary prevention trials, statins have been shown to reduce the risk of stroke. In addition to lipid lowering, statins have a number of antiatherothrombotic and neuroprotective properties. In a preliminary observational study, we explored whether clinical outcome is improved in patients who are on treatment with statins when stroke occurs.
+
+METHODS:
+We conducted a population-based case-referent study of 25- to 74-year-old stroke patients with, for each case of a patient who was on statin treatment at the onset of stroke (n=125), 2 referent patients who were not treated with statins but were matched for age, gender, year of onset, and stroke subtype (n=250).
+
+RESULTS:
+The unadjusted odds ratio for early discharge to home (versus late discharge or death) was 1.41 (95% CI 0.91 to 2.17) when patients on statin treatment were compared with referent stroke patients not on statins. Prognostic factors were, in general, more unfavorable among patients on statins. When this was adjusted for in a logistic regression model, the use of statins was a moderately strong but statistically nonsignificant predictor of discharge to home (multiple-adjusted odds ratio 1.42, 95% CI 0.90 to 2.22).
+
+CONCLUSION:
+The statistical power of this case-referent study was such that only large beneficial effects of statins in acute stroke could be confirmed. However, the observed trend, together with experimental observations, is interesting enough to warrant a more detailed analysis of the relationship between statins and stroke outcome.
+
+
+ABSTRACT 2: Do general practice selection scores predict success at MRCGP?
+------------------------------------------------------------
+PMID: 22449464
+
+BACKGROUND:
+Selection into general practice training is undertaken using a competency based approach. The clear advantage of this approach over traditional methods has been demonstrated through evaluation of its validity and reliability. However, the relationship between selection and performance in the Royal College of General Practitioner examinations (MRCGP) has yet to be explored. The MRCGP comprises of an applied knowledge test (AKT), a clinical skills assessment (CSA) and workplace-based assessments (WPBA).AIM: To explore the predictive validity of general practice selection scores using the AKT and CSA elements of the MRCGP as a final outcome measure.
+
+METHODS:
+This study carried out a retrospective analysis of 101 trainees from the Wales Deanery who were successfully selected on to general practice training in 2007. Selection data consisted of an overall selection score as well as scores from each individual stage of selection. Correlation was used to explore associations between selection scores and examination scores.
+
+RESULTS:
+The score for overall performance at selection achieved statistically significant correlation with examination performance (r = 0.491 for the AKT and r = 0.526 for the CSA, P<0.01).
+
+CONCLUSION:
+The general practice selection process is predictive of future performance in the MRCGP.
+
+
+ABSTRACT 3: Could Adult European Pharmacoresistant Epilepsy Patients Be Treated With Higher Doses of Zonisamide?
+------------------------------------------------------------
+PMID: 26818046
+
+OBJECTIVE:
+To examine the clinical effect (efficacy and tolerability) of high doses of zonisamide (ZNS) (>500 mg/d) in adult patients with pharmacoresistant epilepsy.
+
+METHODS:
+Between 2006 and 2013, all epileptic outpatients treated with high doses of ZNS were selected. Safety and efficacy were assessed based on patient and caregiver reports. Serum levels of ZNS and other concomitant antiepileptic drugs were evaluated if available.
+
+RESULTS:
+Nine patients (5 female): 8 focal/1 generalized pharmacoresistant epilepsy. Mean age: 34 years. Most frequent seizure type: complex partial seizures; other seizure types: generalized tonic-clonic, tonic, myoclonia. Zonisamide in polytherapy in all (100%), administered in tritherapy in 3 (33%) of 9 patients; mean dose: 633 (600-700) mg/d; efficacy (>50% seizure reduction) was observed in 5 (55%) of 9 patients. Five of 9 patients are still taking high doses of ZNS (more than 1 year). Adverse events were observed in 3 (37%) of 8 patients. Good tolerance to high doses of other antiepileptic drugs had been observed in 6 (66%) of 9 patients. Plasma levels of ZNS were only available in 2 patients; both were in the therapeutic range (34.95, 30.91) (10-40 mg/L).
+
+CONCLUSION:
+High doses of ZNS are effective and safe in pharmacoresistant epileptic patients. Therapeutic drug monitoring of ZNS may be considered at therapeutic failure.
+
+
+ABSTRACT 4: Is pain a clinically relevant problem in general adult psychiatry?
+------------------------------------------------------------
+PMID: 14872327
+
+OBJECTIVE:
+To study the prevalence of pain and risk factors for pain in psychiatric patients in a psychiatric hospital.
+
+METHODS:
+Using a questionnaire we investigated in a cross-sectional study the prevalence of pain, duration of pain, impairment and unfitness for work due to pain in 106 patients primarily diagnosed with a psychiatric disorder in the field of general adult psychiatry. Potential risk factors were explored.
+
+RESULTS:
+The point prevalence of pain was about 50%, the 6-month prevalence 75.5% and the 12-month prevalence 76.5%. The patients' most frequent complaints were low back pain, headache and shoulder and neck pain. Patients with affective disorders most frequently had pain complaints, followed by those with neurotic, stress-related and somatoform disorders and those with psychotic disorders such as schizophrenia, schizotypic and delusional disorders. Almost 10% of all patients reported pain continuing at least 3 months in the past year. Impairment and unfitness for work were related to specific psychiatric diagnosis. Statistically significant risk factors for pain were depression (OR=6.05) and the number of past admissions to psychiatric hospitals (OR=3.609).
+
+CONCLUSION:
+We found evidence that pain can be a significant clinical problem in psychiatric patients which seems to be underestimated in psychiatry. The investigated patients in general adult psychiatry are characterized by specific risk factors different from clinical subpopulations of other disciplines.
+
+
+ABSTRACT 5: Intravenous administration of metoclopramide by 2 min bolus vs 15 min infusion: does it affect the improvement of headache while reducing the side effects?
+------------------------------------------------------------
+PMID: 17916877
+
+OBJECTIVE:
+To determine the therapeutic effect (alleviation of vascular type headache) and side effects of a slow intravenous metoclopramide infusion over 15 min compared with those effects of a bolus intravenous metoclopramide infusion over 2 min in the treatment of patients with recent onset vascular type headache.
+
+MATERIAL AND METHODS:
+All adults treated with metoclopramide for vascular type headache were eligible for entry into this clinical randomised double blinded trial. This study compared the effects of two different rates of intravenous infusion of metoclopramide over a period of 13 months at a university hospital emergency department. During the trial, side effects and headache scores were recorded at baseline (0 min), and then at 5, 15, 30 and 60 min. Repeated measures analysis of variance was used to compare the medication's efficacy and side effects.
+
+RESULTS:
+A total of 120 patients presenting to the emergency department met the inclusion criteria. Of these, 62 patients (51.7%) were given 10 mg metoclopramide as a slow intravenous infusion over 15 min (SIG group) and 58 patients (48.3%) were given 10 mg metoclopramide intravenous bolus infusion over 2 min (BIG group). 17 of the 58 patients in the BIG group (29.3%) and 4 of the 62 patients (6.5%) in the SIG group had akathisia (p = 0.001). There were no significant differences between the BIG and SIG groups in terms of mean headache scores (p = 0.34) and no adverse reactions in the study period. Metoclopramide successfully relieved the headache symptom(s) of patients in both the BIG and SIG groups.
+
+CONCLUSION:
+Slowing the infusion rate of metoclopramide is an effective strategy for the improvement of headache and reducing the incidence of akathisia in patients with vascular type headache.
+
+
+ABSTRACT 6: Can the prognosis of polymyalgia rheumatica be predicted at disease onset?
+------------------------------------------------------------
+PMID: 20064872
+
+OBJECTIVE:
+To identify the features of PMR that may predict the duration of steroid therapy, the occurrence of relapses and the late development of GCA.
+
+METHODS:
+Prospective cohort study of 176 patients with PMR, followed up for 5 years. Baseline factors associated with the duration of steroids therapy were identified using Cox regression. Predictors of relapse and the late development of GCA were identified using binary logistic regression.
+
+RESULTS:
+A total of 176 patients with PMR were included, of whom 124 stopped steroids within 5 years. The probability of stopping steroids within 5 years was independently reduced by an elevated plasma viscosity (PV) [hazard ratio (HR) = 0.49; 95% CI 0.29, 0.82 for a PV>or = 2.00 mPa s compared with a PV<or = 1.80 mPa s; overall P = 0.024] and by starting treatment at>15 mg prednisolone (HR = 0.63; 95% CI 0.41, 0.97; P = 0.036). Either of these independently reduced the chances of stopping steroids within a given time interval between 27 and 51%. No significant predictors of relapse were identified. Predictors of late GCA on univariable analysis were female sex [odds ratio (OR) = 8.16; 95% CI 1.06, 63.13; P = 0.044], HLA-DRB1*0101 or -*0401 alleles (OR = 4.95; 95% CI 1.05, 23.34; P = 0.043), PV>or = 2.00 mPa s compared with PV<or = 1.80 mPa s (OR = 10.64; 95% CI 1.28, 88.38; P = 0.029) and initial prednisolone dose>15 mg (OR = 4.53; 95% CI 1.61, 12.79; P = 0.004).
+
+CONCLUSION:
+A higher PV in PMR increases the risk of prolonged steroid therapy and late GCA. Female sex and particular HLA alleles may increase the risk of late GCA. Starting patients on>15 mg prednisolone is associated with a prolonged steroid duration.
+
+
+ABSTRACT 7: Are patients with diabetes receiving the same message from dietitians and nurses?
+------------------------------------------------------------
+PMID: 15095519
+
+PURPOSE:
+The purpose of this study was to determine if registered dietitian (RD) and registered nurse (RN) certified diabetes educators (CDEs) provide similar recommendations regarding carbohydrates and dietary supplements to individuals with diabetes.
+
+METHODS:
+A survey was mailed to CDEs in the southern United States. Participants were asked to indicate their recommendations for use of carbohydrates, fiber, artificial sweeteners, and 12 selected dietary and herbal supplements when counseling individuals with diabetes.
+
+RESULTS:
+The survey sample consisted of 366 CDEs: 207 were RNs and 159 were RDs. No statistically significant differences were found between RNs and RDs in typical carbohydrate recommendations for treatment of diabetes. However, RDs were more likely than RNs to make recommendations for fiber intake or use of the glycemic index. A significant difference also was found in the treatment of hypoglycemia: RNs were more likely than RDs to recommend consuming a carbohydrate source with protein to treat hypoglycemia.
+
+CONCLUSION:
+Although some differences existed, RD and RN CDEs are making similar overall recommendations in the treatment of individuals with diabetes.
+
+
+ABSTRACT 8: Should general practitioners call patients by their first names?
+------------------------------------------------------------
+PMID: 2224269
+
+OBJECTIVE:
+To assess the acceptability to patients of the use of patients' first names by doctors and doctors' first names by patients in general practice.
+
+DESIGN:
+An administered questionnaire survey.
+
+SETTING:
+5 General practices in Lothian.
+
+PATIENTS:
+475 Patients consulting 30 general practitioners.
+
+MAIN OUTCOME MEASURE:
+Response by patients to questionnaire on attitude to use of first names.
+
+RESULTS:
+Most of the patients either liked (223) or did not mind (175) being called by their first names. Only 77 disliked it, most of whom were aged over 65. Most patients (324) did not, however, want to call the doctor by his or her first name.
+
+CONCLUSION:
+General practitioners should consider using patients' first names more often, particularly with younger patients.
+
+
+ABSTRACT 9: Do somatic complaints predict subsequent symptoms of depression?
+------------------------------------------------------------
+PMID: 12920330
+
+BACKGROUND:
+Evidence suggests substantial comorbidity between symptoms of somatization and depression in clinical as well as nonclinical populations. However, as most existing research has been retrospective or cross-sectional in design, very little is known about the specific nature of this relationship. In particular, it is unclear whether somatic complaints may heighten the risk for the subsequent development of depressive symptoms.
+
+METHODS:
+We report findings on the link between symptoms of somatization (assessed using the SCL-90-R) and depression 5 years later (assessed using the CES-D) in an initially healthy cohort of community adults, based on prospective data from the RENO Diet-Heart Study.
+
+RESULTS:
+Gender-stratified multiple regression analyses revealed that baseline CES-D scores were the best predictors of subsequent depressive symptoms for men and women. Baseline scores on the SCL-90-R somatization subscale significantly predicted subsequent self-reported symptoms of depressed mood 5 years later, but only in women. However, somatic complaints were a somewhat less powerful predictor than income and age.
+
+CONCLUSION:
+Our findings suggest that somatic complaints may represent one, but not necessarily the most important, risk factor for the subsequent development of depressive symptoms in women in nonclinical populations. The results also highlight the importance of including social variables in studies on women's depression as well as conducting additional research to further examine predictors of depressive symptoms in men.
+
+
+ABSTRACT 10: Does age moderate the effect of personality disorder on coping style in psychiatric inpatients?
+------------------------------------------------------------
+PMID: 22617083
+
+OBJECTIVE:
+To examine age-related differences in the relationship between personality and coping strategies in an Australian population of psychiatric inpatients.
+
+METHOD:
+Consenting eligible adults (N=238) from 18-100 years of age consecutively admitted to inpatient psychiatry units were assessed using the SCID I and II, the Coping Orientations to Problems Experienced Scale (COPE), the Brief Psychiatric Rating Scale (BPRS), the Global Assessment of Functioning Scale (GAF), the Social and Occupational Functioning Assessment Scale (SOFAS), the 12 Item Short-Form Heath Survey (SF12), the Sarason Social Support Questionnaire, and the NEO Five Factor Inventory (NEO-FFI) (cognitively impaired, and non-English speaking patients were excluded).
+
+RESULTS:
+Older adults reported less symptomatology than younger patients and younger patients described more personality dysfunction than older patients. As assessed by the COPE, older adults reported lower levels of dysfunctional coping strategies than younger adults. Personality traits, social supports, gender, and age predicted coping strategies, while Axis I diagnosis, education, personality disorder, and symptom severity were not significant predictors of coping strategies.
+
+CONCLUSION:
+This study found that influences on coping were multifactorial and moderated by age. These factors have implications for interventions designed to enhance coping strategies.
+
+
+ABSTRACT 11: Biomechanical and wound healing characteristics of corneas after excimer laser keratorefractive surgery: is there a difference between advanced surface ablation and sub-Bowman's keratomileusis?
+------------------------------------------------------------
+PMID: 18269157
+
+PURPOSE:
+To describe the biomechanical and wound healing characteristics of corneas after excimer laser keratorefractive surgery.
+
+METHODS:
+Histologic, ultrastructural, and cohesive tensile strength evaluations were performed on 25 normal human corneal specimens, 206 uncomplicated LASIK specimens, 17 uncomplicated sub-Bowman's keratomileusis (SBK) specimens, 4 uncomplicated photorefractive keratectomy (PRK) specimens, 2 uncomplicated advanced surface ablation (ASA) specimens, 5 keratoconus specimens, 12 postoperative LASIK ectasia specimens, and 1 postoperative PRK ectasia specimen and compared to previously published studies.
+
+RESULTS:
+Histologic and ultrastructural studies of normal corneas showed significant differences in the direction of collagen fibrils and/or the degree of lamellar interweaving in Bowman's layer, the anterior third of the corneal stroma, the posterior two-thirds of the corneal stroma, and Descemet's membrane. Cohesive tensile strength testing directly supported these morphologic findings as the stronger, more rigid regions of the cornea were located anteriorly and peripherally. This suggests that PRK and ASA, and secondarily SBK, should be biomechanically safer than conventional LASIK with regard to risk for causing keratectasia after surgery. Because adult human corneal stromal wounds heal slowly and incompletely, all excimer laser keratorefractive surgical techniques still have some distinct disadvantages due to inadequate reparative wound healing. Despite reducing some of the risk for corneal haze compared to conventional PRK, ASA cases still can develop corneal haze or breakthrough haze from the hypercellular fibrotic stromal scarring. In contrast, similar to conventional LASIK, SBK still has the short- and long-term potential for interface wound complications from the hypocellular primitive stromal scar.
+
+CONCLUSION:
+Ophthalmic pathology and basic science research show that SBK and ASA are improvements in excimer laser keratorefractive surgery compared to conventional LASIK or PRK, particularly with regard to maintaining corneal biomechanics and perhaps moderately reducing the risk of corneal haze. However, most of the disadvantages caused by wound healing issues remain.
+
+
+ABSTRACT 12: Is horizontal semicircular canal ocular reflex influenced by otolith organs input?
+------------------------------------------------------------
+PMID: 22497340
+
+OBJECTIVE:
+To clarify whether horizontal canal ocular reflex is influenced by otolith organs input.
+
+METHODS:
+The subjects were seven healthy humans. The right ear was stimulated using ice-water. Each subject was kept in a left-ear-down position for 20 s and then repositioned to a prone position, a right-ear-down position and a supine position with 20 s intervals. Nystagmus was analysed using three-dimensional video-oculography.
+
+RESULTS:
+Eye movements in the supine position and the prone position were not in a symmetric fashion. Nystagmus in the left-ear-down position and the right-ear-down position were not symmetric either. These phenomena indicate that the axis of the eyeball rotation was affected by the shift of the direction of gravity exerted on the head.
+
+CONCLUSION:
+Otolith organs input influences the axis of horizontal semicircular canal ocular reflex; therefore, the plane of compensatory eye movements induced by the horizontal canal stimulation is not always parallel to the canal.
+
+
+ABSTRACT 13: Is arch form influenced by sagittal molar relationship or Bolton tooth-size discrepancy?
+------------------------------------------------------------
+PMID: 26113007
+
+BACKGROUND:
+Orthodontic patients show high prevalence of tooth-size discrepancy. This study investigates the possible association between arch form, clinically significant tooth-size discrepancy, and sagittal molar relationship.
+
+METHODS:
+Pretreatment orthodontic casts of 230 Saudi patients were classified into one of three arch form types (tapered, ovoid, and square) using digitally scanned images of the mandibular arches. Bolton ratio was calculated, sagittal molar relationship was defined according to Angle classification, and correlations were analyzed using ANOVA, chi-square, and t-tests.
+
+RESULTS:
+No single arch form was significantly more common than the others. Furthermore, no association was observed between the presence of significant Bolton discrepancy and the sagittal molar relationship or arch form. Overall Bolton discrepancy is significantly more prevalent in males.
+
+CONCLUSION:
+Arch form in a Saudi patient group is independent of gender, sagittal molar relationship, and Bolton discrepancy.
+
+
+ABSTRACT 14: Is the advanced age a contraindication to GERD laparoscopic surgery?
+------------------------------------------------------------
+PMID: 24267613
+
+BACKGROUND:
+In this prospective non randomized observational cohort study we have evaluated the influence of age on outcome of laparoscopic total fundoplication for GERD.
+
+METHODS:
+Six hundred and twenty consecutive patients underwent total laparoscopic fundoplication for GERD. Five hundred and twenty-four patients were younger than 65 years (YG), and 96 patients were 65 years or older (EG). The following parameters were considered in the preoperative and postoperative evaluation: presence, duration, and severity of GERD symptoms, presence of a hiatal hernia, manometric and 24 hour pH-monitoring data, duration of operation, incidence of complications and length of hospital stay.
+
+RESULTS:
+Elderly patients more often had atypical symptoms of GERD and at manometric evaluation had a higher rate of impaired esophageal peristalsis in comparison with younger patients. The duration of the operation was similar between the two groups. The incidence of intraoperative and postoperative complications was low and the difference was not statistically significant between the two groups. An excellent outcome was observed in 93.0% of young patients and in 88.9% of elderly patients (p = NS).
+
+CONCLUSION:
+Laparoscopic antireflux surgery is a safe and effective treatment for GERD even in elderly patients, warranting low morbidity and mortality rates and a significant improvement of symptoms comparable to younger patients.
+
+
+ABSTRACT 15: Adjuvant radiation of stage III thymoma: is it necessary?
+------------------------------------------------------------
+PMID: 15919266
+
+BACKGROUND:
+The criteria for administration of adjuvant radiation therapy after thymoma resection remains controversial, and it is unclear whether patients with Masaoka stage III thymoma benefit from adjuvant radiation. The goal of this report was to determine whether or not this group benefits from radiation therapy in disease-specific survival and disease-free survival.
+
+METHODS:
+Case records of the Massachusetts General Hospital were retrospectively reviewed from 1972 to 2004. One hundred and seventy-nine patients underwent resection for thymoma, of which 45 had stage III disease.
+
+RESULTS:
+Forty-five stage III patients underwent resection and in 36 it was complete. Thirty-eight stage III patients received radiation therapy. Baseline prognostic factors between radiated and nonradiated groups were similar. The addition of adjuvant radiotherapy did not alter local or distant recurrence rates in patients with stage III thymoma. Disease-specific survival at 10 years in stage III patients who did not receive radiation was 75% (95% confidence interval, 32% to 100%) and in patients who did receive radiation therapy it was 79% (95% confidence interval, 64% to 94%) (p = 0.21). The most common site of relapse was the pleura.
+
+CONCLUSION:
+Most patients who have stage III thymoma undergo complete resection. Some patients enjoy prolonged disease-free survival without adjuvant radiation after resection of stage III thymoma. Radiation does not seem to prevent pleural recurrences when given after resection of stage III thymomas. The use of routine adjuvant radiation after a complete resection of stage III thymoma needs to be re-addressed. There may be a role for the use of chemotherapy to reduce pleural recurrences.
+
+
+ABSTRACT 16: Can the Internet be used to improve sexual health awareness in web-wise young people?
+------------------------------------------------------------
+PMID: 12626177
+
+OBJECTIVES:
+To assess Internet use amongst young people to determine whether it would be a practical way to provide sex education and information.
+
+METHODS:
+Year 10 students (aged 14-15 years) from North Nottinghamshire schools were asked to participate in focus groups to discuss the Internet. A series of predefined questions were directed to the whole group to generate debate. Areas explored included: Internet access and site; frequency and purpose of Internet use; websites visited; ideas for a genitourinary medicine (GUM) website. Responses were recorded by a hand count or as individual verbal responses.
+
+RESULTS:
+Thirteen focus groups were held involving 287 students of approximately equal sex distribution. All had access to Internet facilities at school and 224 (78.0%) had access elsewhere. Access was at least once a week by 178 (62.0%) mostly for e-mail, games, chatlines and homework. No one accessed for health information. One hundred and seventy-nine (62.4%) participants said they would use a GUM website. A 'question line' where they could e-mail questions to a health care professional was of interest to 202 (70.4%) participants.
+
+CONCLUSION:
+The Internet would be a practical and accessible way of delivering sexual health education to young people, particularly if it is incorporated into activities and websites they enjoy.
+
+
+ABSTRACT 17: Regional anesthesia as compared with general anesthesia for surgery in geriatric patients with hip fracture: does it decrease morbidity, mortality, and health care costs?
+------------------------------------------------------------
+PMID: 22758782
+
+INTRODUCTION:
+Hip fracture in geriatric patients has a substantial economic impact and represents a major cause of morbidity and mortality in this population. At our institution, a regional anesthesia program was instituted for patients undergoing surgery for hip fracture. This retrospective cohort review examines the effects of regional anesthesia (from mainly after July 2007) vs general anesthesia (mainly prior to July 2007) on morbidity, mortality and hospitalization costs.
+
+METHODS:
+This retrospective cohort study involved data collection from electronic and paper charts of 308 patients who underwent surgery for hip fracture from September 2006 to December 2008. Data on postoperative morbidity, in-patient mortality, and cost of hospitalization (as estimated from data on hospital charges) were collected and analyzed. Seventy-three patients received regional anesthesia and 235 patients received general anesthesia. During July 2007, approximately halfway through the study period, a regional anesthesia and analgesia program was introduced.
+
+RESULTS:
+The average cost of hospitalization in patients who received surgery for hip fracture was no different between patients who receive regional or general anesthesia ($16,789 + 631 vs $16,815 + 643, respectively, P = 0.9557). Delay in surgery and intensive care unit (ICU) admission resulted in significantly higher hospitalization costs. Age, male gender, African American race and ICU admission were associated with increased in-hospital mortality. In-hospital mortality and rates of readmission are not statistically different between the two anesthesia groups.
+
+CONCLUSION:
+There is no difference in postoperative morbidity, rates of rehospitalization, in-patient mortality or hospitalization costs in geriatric patients undergoing regional or general anesthesia for repair of hip fracture. Delay in surgery beyond 3 days and ICU admission both increase cost of hospitalization.
+
+
+ABSTRACT 18: Sternal skin conductance: a reasonable surrogate for hot flash measurement?
+------------------------------------------------------------
+PMID: 23571528
+
+OBJECTIVE:
+This study aims to examine the accuracy of a new sternal skin conductance (SSC) device in measuring hot flashes and to assess the acceptability of the device by women.
+
+METHODS:
+Three small descriptive pilot studies were performed using two sequential prototypes of the SSC device developed by an engineering device company in the Midwest. The devices were worn either in a monitored setting for 24 hours or in an ambulatory setting for 5 weeks. During the study period, women recorded hot flashes in a prospective hot flash diary and answered questions about the acceptability of wearing the SSC device.
+
+RESULTS:
+The first prototype was not able to collect any analyzable skin conductance data owing to various malfunction issues, including poor conductance and battery failure. However, 16 women wore the device for 5 weeks and reported that wearing the device was acceptable, although 31% stated that it interfered with daily activities. Hot flash data from the second prototype revealed a 24% concordance rate between self-reported and device-recorded hot flashes.
+
+CONCLUSION:
+Findings from these studies support discordance between device-recorded and self-reported hot flashes. In addition, the studies reveal further limitations of SSC monitoring, including difficulties with data collection and lack of consistency in interpretation. Based on these results and other recent trials identifying issues with SSC methodology, it is time to find a better physiologic surrogate measure for hot flashes.
+
+
+ABSTRACT 19: Is coeliac disease screening in risk groups justified?
+------------------------------------------------------------
+PMID: 16097998
+
+BACKGROUND:
+The benefits of serologic screening for coeliac disease in asymptomatic individuals are debatable.AIM: To investigate dietary compliance, quality of life and bone mineral density after long-term treatment in coeliac disease patients found by screening in risk groups.
+
+METHODS:
+The study comprised 53 consecutive screen-detected coeliac patients diagnosed 14 years (median) ago. Dietary compliance was assessed by interview, 4-day food record and serology. Quality of life was evaluated by the Psychological General Well-Being and SF-36 questionnaires, gastrointestinal symptoms by the Gastrointestinal Symptom Rating Scale and bone mineral density by dual-energy x-ray absorptiometry. Comparisons were made to 44 symptom-detected-treated coeliac patients, 110 non-coeliac subjects and the general population.
+
+RESULTS:
+A total of 96% of screen-detected and 93% of symptom-detected coeliac patients adhered to a strict or fairly strict gluten-free diet. In screen-detected patients, quality of life and gastrointestinal symptoms were similar to those in symptom-detected patients or non-coeliac controls and bone mineral density was similar to that in the general population.
+
+CONCLUSION:
+Long-term dietary compliance in screen-detected patients was good. Quality of life and bone mineral density were comparable with those in non-coeliac subjects and the general population. Active screening in coeliac disease risk groups seems to be reasonable rather than harmful.
+
+
+ABSTRACT 20: Application of computer-aided diagnosis (CAD) in MR-mammography (MRM): do we really need whole lesion time curve distribution analysis?
+------------------------------------------------------------
+PMID: 19268855
+
+RATIONALE AND OBJECTIVES:
+The identification of the most suspect enhancing part of a lesion is regarded as a major diagnostic criterion in dynamic magnetic resonance mammography. Computer-aided diagnosis (CAD) software allows the semi-automatic analysis of the kinetic characteristics of complete enhancing lesions, providing additional information about lesion vasculature. The diagnostic value of this information has not yet been quantified.
+
+MATERIALS AND METHODS:
+Consecutive patients from routine diagnostic studies (1.5 T, 0.1 mmol gadopentetate dimeglumine, dynamic gradient-echo sequences at 1-minute intervals) were analyzed prospectively using CAD. Dynamic sequences were processed and reduced to a parametric map. Curve types were classified by initial signal increase (not significant, intermediate, and strong) and the delayed time course of signal intensity (continuous, plateau, and washout). Lesion enhancement was measured using CAD. The most suspect curve, the curve-type distribution percentage, and combined dynamic data were compared. Statistical analysis included logistic regression analysis and receiver-operating characteristic analysis.
+
+RESULTS:
+Fifty-one patients with 46 malignant and 44 benign lesions were enrolled. On receiver-operating characteristic analysis, the most suspect curve showed diagnostic accuracy of 76.7 +/- 5%. In comparison, the curve-type distribution percentage demonstrated accuracy of 80.2 +/- 4.9%. Combined dynamic data had the highest diagnostic accuracy (84.3 +/- 4.2%). These differences did not achieve statistical significance. With appropriate cutoff values, sensitivity and specificity, respectively, were found to be 80.4% and 72.7% for the most suspect curve, 76.1% and 83.6% for the curve-type distribution percentage, and 78.3% and 84.5% for both parameters.
+
+CONCLUSION:
+The integration of whole-lesion dynamic data tends to improve specificity. However, no statistical significance backs up this finding.
+
+
+ABSTRACT 21: Does ibuprofen increase perioperative blood loss during hip arthroplasty?
+------------------------------------------------------------
+PMID: 12442934
+
+BACKGROUND AND OBJECTIVE:
+To determine whether prior exposure of non-steroidal anti-inflammatory drugs increases perioperative blood loss associated with major orthopaedic surgery.
+
+METHODS:
+Fifty patients scheduled for total hip replacement were allocated to two groups (double blind, randomized manner). All patients were pretreated for 2 weeks before surgery: Group 1 with placebo drug, Group 2 with ibuprofen. All patients were injected intrathecally with bupivacaine 20mg plus morphine 0.1 mg, in a total volume of 4 mL, to provide surgical anaesthesia.
+
+RESULTS:
+The presence of severe adverse effects caused eight patients in the ibuprofen group and six in the placebo group to terminate their participation in the trial. The perioperative blood loss increased by 45% in the ibuprofen group compared with placebo. The total (+/-SD) blood loss in the ibuprofen group was 1161 (+/-472) mL versus 796 (+/-337) mL in the placebo group.
+
+CONCLUSION:
+Pretreatment with ibuprofen before elective total hip surgery increases the perioperative blood loss significantly. Early discontinuation of non-selective non-steroidal anti-inflammatory drugs is advised.
+
+
+ABSTRACT 22: Are polymorphisms in oestrogen receptors genes associated with lipid levels in response to hormone therapy?
+------------------------------------------------------------
+PMID: 22324545
+
+BACKGROUND:
+Polymorphisms in the oestrogen receptor 1 (ESR1) and oestrogen receptor 2 (ESR2) genes are associated with intermediate or endpoint markers of cardiovascular disease and with the efficacy of postmenopausal hormone therapy (HT). Contradictory findings have been described in the past and the role of these genetics variants remains unclear.
+
+METHODS:
+A cross-sectional study was carried out with 266 postmenopausal women, of whom 115 received oral HT (HT+) and 151 did not receive any HT (HT-). We analysed three single-nucleotide polymorphisms (SNPs) in ESR1 (rs1801132, rs7757956 and rs2813544) and two in ESR2 (rs3020450 and rs7154455) and derived haplotypes with three additional polymorphisms that had been previously investigated by our group (ESR1 rs2234693 and ESR2 rs1256049 and rs4986938).
+
+RESULTS:
+The ESR1 rs2813544 polymorphism was associated with low-density lipoprotein cholesterol (LDL-C) in HT+ postmenopausal women (p = 0.044; pC = 0.388), while one ESR2 gene haplotype was associated with total cholesterol (T-chol) (p = 0.015; pC = 0.090) and LDL-C in HT+ postmenopausal women (p = 0.021; pC = 0.126).
+
+CONCLUSION:
+Our findings suggest that, in HT+ postmenopausal women, the rs2813544 polymorphism may influence LDL-C levels and, as previously described, ESR2 rs1256049 is associated with T-chol and LDL-C. No previous study has investigated the association of this SNP set with lipoprotein levels in women while taking into account the hormonal status of the patients.
+
+
+ABSTRACT 23: Clinical identifiers for early-stage primary/idiopathic adhesive capsulitis: are we seeing the real picture?
+------------------------------------------------------------
+PMID: 24652474
+
+BACKGROUND:
+Adhesive capsulitis is often difficult to diagnose in its early stage and to differentiate from other common shoulder disorders.
+
+OBJECTIVE:
+The aim of this study was to validate any or all of the 8 clinical identifiers of early-stage primary/idiopathic adhesive capsulitis established in an earlier Delphi study.
+
+DESIGN:
+This was a cross-sectional study.
+
+METHODS:
+Sixty-four patients diagnosed with early-stage adhesive capsulitis by a physical therapist or medical practitioner were included in the study. Eight active and 8 passive shoulder movements and visual analog scale pain scores for each movement were recorded prior to and immediately following an intra-articular injection of corticosteroid and local anesthetic. Using the local anesthetic as the reference standard, pain relief of ≥70% for passive external rotation was deemed a positive anesthetic response (PAR).
+
+RESULTS:
+Sixteen participants (25%) demonstrated a PAR. Univariate logistic regression identified that of the proposed identifiers, global loss of passive range of movement (odds ratio [OR]=0.26, P=.03), pain at the end of range of all measured active movements (OR=0.06, P=.02), and global loss of passive glenohumeral movements (OR=0.23, P=.02) were associated with a PAR. Following stepwise removal of the variables, pain at the end of range of all measured active movements remained the only identifier but was associated with reduced odds of a PAR.
+
+LIMITATIONS:
+The lack of a recognized reference standard for diagnosing early-stage adhesive capsulitis remains problematic in all related research.
+
+CONCLUSION:
+None of the clinical identifiers for early-stage adhesive capsulitis previously proposed by expert consensus have been validated in this study. Clinicians should be aware that commonly used clinical identifiers may not be applicable to this stage.
+
+
+ABSTRACT 24: Advanced epithelial ovarian carcinoma in Thai women: should we continue to offer second-look laparotomy?
+------------------------------------------------------------
+PMID: 11759976
+
+OBJECTIVE:
+To determine survival among patients with epithelial ovarian carcinoma (EOC) who underwent a second-look laparotomy (SLL) and those refusing the procedure. Also to analyze factor(s) influencing the survival of the patients.
+
+METHOD AND MATERIAL:
+Medical records were reviewed of patients with advanced EOC who were clinically free of disease after primary surgery and platinum-based chemotherapy between January 1, 1992, and December 31, 1998. All of them were offered SLL. Measurement outcomes include patient survival and disease-free survival.
+
+RESULTS:
+There were 50 patients with clinically complete remission after chemotherapy. Sixteen patients underwent SLL, and thirty-four patients refused the procedure (NSLL). Seven patients (43.8%) were reported to have positive SLL. After the median follow-up time of 35 months, 12 patients had died, and 5 patients were lost to follow-up. The median survival time for patients with SLL was about 60 months. Five-year survival rates of patients in the SLL, and NSLL groups were 37 per cent (95%CI = 7%-69%), and 88 per cent (95%CI = 65%-96%) respectively (P<0.001). The median time to relapse was about 25 months for patients with negative SLL. Five-year disease-free survival rates of patients in the negative SLL, and NSLL groups were 28 per cent (95%CI = 4%-59%), and 54 per cent (95%CI = 34%-70%) respectively (P=0.251). By Cox regression analysis, tumor grade was the only significant prognostic factor influencing patients' survival (HR = 6, 95%CI of HR = 1.2-34.2).
+
+CONCLUSION:
+The second-look laparotomy doesn't have a favorable impact on overall and disease-free survival. Tumor grade is the only independent prognostic variable for survival of the patients.
+
+
+ABSTRACT 25: Does route of delivery affect maternal and perinatal outcome in women with eclampsia?
+------------------------------------------------------------
+PMID: 22521460
+
+OBJECTIVE:
+The route of delivery in eclampsia is controversial. We hypothesized that adverse maternal and perinatal outcomes may not be improved by early cesarean delivery.
+
+STUDY DESIGN:
+This was a randomized controlled exploratory trial carried out in a rural teaching institution. In all, 200 eclampsia cases, carrying ≥34 weeks, were allocated to either cesarean or vaginal delivery. Composite maternal and perinatal event rates (death and severe morbidity) were compared by intention-to-treat principle.
+
+RESULTS:
+Groups were comparable at baseline with respect to age and key clinical parameters. Maternal event rate was similar: 10.89% in the cesarean arm vs 7.07% for vaginal delivery (relative risk, 1.54; 95% confidence interval, 0.62-3.81). Although the neonatal event rate was less in cesarean delivery-9.90% vs 19.19% (relative risk, 0.52; 95% confidence interval, 0.25-1.05)-the difference was not significant statistically.
+
+CONCLUSION:
+A policy of early cesarean delivery in eclampsia, carrying ≥34 weeks, is not associated with better outcomes.
+
+
+ABSTRACT 26: Is endothelin-1 an aggravating factor in the development of acute pancreatitis?
+------------------------------------------------------------
+PMID: 11601252
+
+OBJECTIVE:
+We have reported previously that cerulein-induced edematous pancreatitis would transform into hemorrhagic pancreatitis by administration of endothelin-1 in rats. In the present study, we tried to protect rat model from developing into hemorrhagic pancreatitis with BQ123 (an ETA receptor antagonist).
+
+METHODS:
+The rat model was made by 5-hour restraint water-immersion stress and two intraperitoneal injections of cerulein (40 micrograms/kg) at hourly interval. BQ123 (3 or 6 mg/kg) was administered intravenously 30 minutes before and 2 hours after the first cerulein injection.
+
+RESULTS:
+Acute hemorrhagic pancreatitis was induced in all rats treated with cerulin + stress. The score for pancreatic hemorrhage was 2.4 +/- 0.2 in this group. In the rats pretreated with BQ123, the score was reduced to 1.0 +/- 0.0, pancreas wet weight and serum amylase activity were significantly reduced, and histologic alterations in the pancreas lightened, also the local pancreatic blood flow improved without affecting the systemic blood pressure.
+
+CONCLUSION:
+These results suggest that endothelin-1 should play a role in aggravating the development of acute hemorrhagic pancreatitis, through its action on the pancreatic microcirculation.
+
+
+ABSTRACT 27: Uniformity of evidence-based treatments in practice?
+------------------------------------------------------------
+PMID: 23356465
+
+OBJECTIVE:
+Various factors contribute to the effective implementation of evidence-based treatments (EBTs). In this study, cognitive processing therapy (CPT) was administered in a Veterans Affairs (VA) posttraumatic stress disorder (PTSD) specialty clinic in which training and supervision were provided following VA implementation guidelines. The aim was to (a) estimate the proportion of variability in outcome attributable to therapists and (b) identify characteristics of those therapists who produced better outcomes.
+
+METHOD:
+We used an archival database of veterans (n = 192) who completed 12 sessions of CPT by therapists (n = 25) who were trained by 2 nationally recognized trainers, 1 of whom also provided weekly group supervision. Multilevel modeling was used to estimate therapist effects, with therapists treated as a random factor. The supervisor was asked to retrospectively rate each therapist in terms of perceived effectiveness based on supervision interactions. Using single case study design, the supervisor was interviewed to determine what criteria she used to rate the therapists and emerging themes were coded.
+
+RESULTS:
+When initial level of severity on the PTSD Checklist (PCL; McDonald&Calhoun, 2010; Weathers, Litz, Herman, Huska,&Keane, 1993) was taken into account, approximately 12% of the variability in the PCL at the end of treatment was due to therapists. The trainer, blind to the results, identified the following characteristics and actions of effective therapists: effectively addressing patient avoidance, language used in supervision, flexible interpersonal style, and ability to develop a strong therapeutic alliance.
+
+CONCLUSION:
+This study adds to the growing body of literature documenting the importance of the individual therapist as an important factor in the change process.
+
+
+ABSTRACT 28: Does rural or urban residence make a difference to neonatal outcome in premature birth?
+------------------------------------------------------------
+PMID: 16428354
+
+BACKGROUND:
+Patients living in rural areas may be at a disadvantage in accessing tertiary health care.AIM: To test the hypothesis that very premature infants born to mothers residing in rural areas have poorer outcomes than those residing in urban areas in the state of New South Wales (NSW) and the Australian Capital Territory (ACT) despite a coordinated referral and transport system.
+
+METHODS:
+"Rural" or "urban" status was based on the location of maternal residence. Perinatal characteristics, major morbidity and case mix adjusted mortality were compared between 1879 rural and 6775 urban infants<32 weeks gestational age, born in 1992-2002 and admitted to all 10 neonatal intensive care units in NSW and ACT.
+
+RESULTS:
+Rural mothers were more likely to be teenaged, indigenous, and to have had a previous premature birth, prolonged ruptured membrane, and antenatal corticosteroid. Urban mothers were more likely to have had assisted conception and a caesarean section. More urban (93% v 83%) infants were born in a tertiary obstetric hospital. Infants of rural residence had a higher mortality (adjusted odds ratio (OR) 1.26, 95% confidence interval (CI) 1.07 to 1.48, p = 0.005). This trend was consistently seen in all subgroups and significantly for the tertiary hospital born population and the 30-31 weeks gestation subgroup. Regional birth data in this gestational age range also showed a higher stillbirth rate among rural infants (OR 1.20, 95% CI 1.09 to 1.32, p<0.001).
+
+CONCLUSION:
+Premature births from rural mothers have a higher risk of stillbirth and mortality in neonatal intensive care than urban infants.
+
+
+ABSTRACT 29: Do mitochondria play a role in remodelling lace plant leaves during programmed cell death?
+------------------------------------------------------------
+PMID: 21645374
+
+BACKGROUND:
+Programmed cell death (PCD) is the regulated death of cells within an organism. The lace plant (Aponogeton madagascariensis) produces perforations in its leaves through PCD. The leaves of the plant consist of a latticework of longitudinal and transverse veins enclosing areoles. PCD occurs in the cells at the center of these areoles and progresses outwards, stopping approximately five cells from the vasculature. The role of mitochondria during PCD has been recognized in animals; however, it has been less studied during PCD in plants.
+
+RESULTS:
+The following paper elucidates the role of mitochondrial dynamics during developmentally regulated PCD in vivo in A. madagascariensis. A single areole within a window stage leaf (PCD is occurring) was divided into three areas based on the progression of PCD; cells that will not undergo PCD (NPCD), cells in early stages of PCD (EPCD), and cells in late stages of PCD (LPCD). Window stage leaves were stained with the mitochondrial dye MitoTracker Red CMXRos and examined. Mitochondrial dynamics were delineated into four categories (M1-M4) based on characteristics including distribution, motility, and membrane potential (ΔΨm). A TUNEL assay showed fragmented nDNA in a gradient over these mitochondrial stages. Chloroplasts and transvacuolar strands were also examined using live cell imaging. The possible importance of mitochondrial permeability transition pore (PTP) formation during PCD was indirectly examined via in vivo cyclosporine A (CsA) treatment. This treatment resulted in lace plant leaves with a significantly lower number of perforations compared to controls, and that displayed mitochondrial dynamics similar to that of non-PCD cells.
+
+CONCLUSION:
+Results depicted mitochondrial dynamics in vivo as PCD progresses within the lace plant, and highlight the correlation of this organelle with other organelles during developmental PCD. To the best of our knowledge, this is the first report of mitochondria and chloroplasts moving on transvacuolar strands to form a ring structure surrounding the nucleus during developmental PCD. Also, for the first time, we have shown the feasibility for the use of CsA in a whole plant system. Overall, our findings implicate the mitochondria as playing a critical and early role in developmentally regulated PCD in the lace plant.
+
+
+ABSTRACT 30: Do provider service networks result in lower expenditures compared with HMOs or primary care case management in Florida's Medicaid program?
+------------------------------------------------------------
+PMID: 24237112
+
+OBJECTIVE:
+To determine the impact of Florida's Medicaid Demonstration 4 years post-implementation on per member per month (PMPM) Medicaid expenditures and whether receiving care through HMOs versus provider service networks (PSNs) in the Demonstration was associated with PMPM expenditures.DATA: Florida Medicaid claims from two fiscal years prior to implementation of the Demonstration (FY0405, FY0506) and the first four fiscal years after implementation (FY0607-FY0910) from two urban Demonstration counties and two urban non-Demonstration counties.
+
+STUDY DESIGN:
+A difference-in-difference approach was used to compare changes in enrollee expenditures before and after implementation of the Demonstration overall and specifically for HMOs and PSNs.
+
+DATA EXTRACTION:
+Claims data were extracted for enrollees in the Demonstration and non-Demonstration counties and collapsed into monthly amounts (N = 26,819,987 person-months).
+
+PRINCIPAL FINDINGS:
+Among SSI enrollees, the Demonstration resulted in lower increases in PMPM expenditures over time ($40) compared with the non-Demonstration counties ($186), with Demonstration PSNs lowering PMPM expenditures by $7 more than HMOs. Savings were also seen among TANF enrollees but to a lesser extent.
+
+CONCLUSION:
+The Medicaid Demonstration in Florida appears to result in lower PMPM expenditures. Demonstration PSNs generated slightly greater reductions in expenditures compared to Demonstration HMOs. PSNs appear to be a promising model for delivering care to Medicaid enrollees.
+
+
